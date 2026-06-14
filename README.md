@@ -20,7 +20,8 @@ Healthcare ML project with complete preprocessing and deployment.
 
 Business intelligence and trend discovery through EDA.
 
-→ View Repository
+[→ View Repository](https://github.com/varadtaur/Retail-Sales-Exploratory-Data-Analysis)
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/varad-taur/)
