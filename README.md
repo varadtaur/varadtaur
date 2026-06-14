@@ -23,5 +23,5 @@ Business intelligence and trend discovery through EDA.
 → View Repository
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/varad-taur-641899282)
+- [LinkedIn](https://www.linkedin.com/in/varad-taur/)
 - [Email](mailto:taurvarad403@gmail.com)
