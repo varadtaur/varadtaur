@@ -12,7 +12,7 @@ Credit risk classification model with feature engineering and hyperparameter tun
 
 Healthcare ML project with complete preprocessing and deployment.
 
-→ View Repository
+[→ View Repository](https://github.com/varadtaur/Hospital-Stay-Duration-Prediction)
 
 ---
 
