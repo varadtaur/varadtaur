@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Varad Taur 👋
 
-<!--
-**varadtaur/varadtaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Data Scientist | ML Engineer
 
-Here are some ideas to get you started:
+Fresh graduate passionate about transforming data into actionable insights and building machine learning solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL
+
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+
+**Machine Learning:** Scikit-Learn, XGBoost, CatBoost, LightGBM, Optuna
+
+**Deployment:** Streamlit, FastAPI
+
+**Tools:** Git, Jupyter Notebook, Google Colab, VS Code, Excel
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Loan Default Predictor
+
+Credit risk classification model with feature engineering and hyperparameter tuning.
+
+→ View Repository
+
+---
+
+### 🏥 Hospital Stay Duration Prediction
+
+Healthcare ML project with complete preprocessing and deployment.
+
+→ View Repository
+
+---
+
+### 📊 Retail Sales Exploratory Data Analysis
+
+Business intelligence and trend discovery through EDA.
+
+→ View Repository
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn
+- Email
+
+Open to Data Analyst, Data Scientist and ML Engineer opportunities.
